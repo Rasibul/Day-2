@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+}
+.my{
+    /* height: 300px; */
+    text-align: center;
+}
+
+
+.first{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    padding-top: 15px;
+}
+.second{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding-top: 15px;
+}
+.third{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    padding-top: 15px;
+}
+.fourth{
+    text-align: center;
+    color: purple;
+    text-decoration: underline;
+    padding-top: 15px;
+}
+.pera{
+    margin: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: yellowgreen;
+    color: black;
+    border: 10px solid black;
+    text-align: justify;
+
+}
+.lorem{
+    margin: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: blue;
+    color: black;
+    border: 10px solid black;
+    text-align: justify;
+
+}
+.pera2{
+    margin: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: blueviolet;
+    color: black;
+    border: 10px solid black;
+    text-align: justify;
+
+}
+.pera3{
+    margin: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: yellow;
+    color: black;
+    border: 10px solid black;
+    text-align: justify;
+
+}
